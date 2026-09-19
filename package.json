@@ -1,0 +1,1 @@
+{"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"googleapis":"^181.0.0","lucide-react":"latest","next":"latest","openai":"^7.15.0","react":"latest","react-dom":"latest","xlsx":"^0.18.5"}}
